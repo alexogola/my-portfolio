@@ -1,0 +1,74 @@
+.bgimg {
+    background-image: url('../images/background.jpg');
+}
+
+#name {
+    width: 90%;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+    padding: 80px;
+    text-decoration: underline;
+    /* will contain if #first is longer than #second */
+}
+#wrapper {
+    width: 90%;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 80px;
+    /* will contain if #first is longer than #second */
+}
+#wrapper2 {
+    width: 100%;
+    overflow: hidden;
+    margin: 0 auto;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    /* will contain if #first is longer than #second */
+}
+#portfolio {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    /* will contain if #first is longer than #second */
+}
+#footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    color: #ffffff;
+    /* will contain if #first is longer than #second */
+}
+#first {
+    width: 30%;
+    float:left; /* add this */
+    border: 1px solid black;
+}
+#second {
+    overflow: hidden;
+    padding: 60px 10% 75px 10%;
+    /* if you don't want #second to wrap below #first */
+}
+#third {
+    overflow: hidden;
+    padding: 75px 10% 75px 10%;
+}
+
+.column {
+    float: left;
+    width: 25%;
+}
+.row {
+  margin: 0 auto;
+  width: 80%;
+  text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
