@@ -24,9 +24,12 @@ Link to live website: https://lex-of-pakawa.github.io/my-portfolio/
 This project is licensed under the Moringa School License.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 699558b21ec8f44c851132283354ea2bdfb725b0
 =======
 
 >>>>>>> 32c760c8035f2cad63c61e15220fbcb5c5819e5d
+=======
+>>>>>>> d2ab1c4bb18cff4b05c7a29812e97490585f0224
