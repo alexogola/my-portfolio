@@ -16,7 +16,7 @@ Link to live website: https://lex-of-pakawa.github.io/my-portfolio/
 
 ## Author
 
-* **Alex Ogola Okumu** - *Initial work* - [lex-of-pakawa](https://github.com/lex-of-pakawa)
+* **Alex Ogola Okumu** - [lex-of-pakawa](https://github.com/lex-of-pakawa)
 
 
 ## License
