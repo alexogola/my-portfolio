@@ -2,15 +2,6 @@
     background-image: url('../images/background.jpg');
 }
 
-#name {
-    width: 90%;
-    overflow: hidden;
-    text-align: center;
-    margin: 0 auto;
-    padding: 80px;
-    text-decoration: underline;
-    /* will contain if #first is longer than #second */
-}
 #wrapper {
     width: 90%;
     overflow: hidden;
@@ -37,6 +28,16 @@
     padding-bottom: 20px;
     text-align: center;
     margin: 0 auto;
+    background-color: black;
+    color: #ffffff;
+    /* will contain if #first is longer than #second */
+}
+#header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 80px;
     background-color: black;
     color: #ffffff;
     /* will contain if #first is longer than #second */
