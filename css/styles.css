@@ -12,7 +12,7 @@ p {
     text-align: center;
     margin: 0 auto;
     padding-bottom: 80px;
-    /* will contain if #first is longer than #second */
+
 }
 #wrapper2 {
     width: 100%;
@@ -20,12 +20,12 @@ p {
     margin: 0 auto;
     padding-top: 80px;
     padding-bottom: 80px;
-    /* will contain if #first is longer than #second */
+
 }
 #portfolio {
     padding-top: 80px;
     padding-bottom: 80px;
-    /* will contain if #first is longer than #second */
+
 }
 #footer {
     padding-top: 20px;
@@ -34,7 +34,7 @@ p {
     margin: 0 auto;
     background-color: black;
     color: #ffffff;
-    /* will contain if #first is longer than #second */
+
 }
 #header {
     padding-top: 20px;
@@ -44,17 +44,17 @@ p {
     margin-bottom: 80px;
     background-color: black;
     color: #ffffff;
-    /* will contain if #first is longer than #second */
+
 }
 #first {
     width: 30%;
-    float:left; /* add this */
+    float:left;
     border: 1px solid black;
 }
 #second {
     overflow: hidden;
     padding: 60px 10% 75px 10%;
-    /* if you don't want #second to wrap below #first */
+
 }
 #third {
     overflow: hidden;
@@ -71,7 +71,7 @@ p {
   text-align: center;
 }
 
-/* Clear floats after the columns */
+
 .row:after {
     content: "";
     display: table;
